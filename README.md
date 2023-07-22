@@ -485,3 +485,11 @@ For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https:/
 </div>
 
 [tta]: https://github.com/ultralytics/yolov5/issues/303
+
+####################################################################################################################################
+DESCRIPCIÓN:
+En este repositorio a la par de la herramienta YOLOv5 se muestra la red neuronal ocupada en la detección de imágenes a más de 7 metros de altura, implementando un modelo Dron de -3 kg con controlodaora Pixhawk, para realizar vuelos automáticos, esta prueba consistió en la detección de diferentes personas dentro del espectro visible, así como en diferente posición y con luz de día.
+
+###################################################################################################################################
+DESCRIPTION:
+In this repository, alongside the YOLOv5 tool, it shows the neural network engaged in the detection of images at more than 7 meters height, implementing a model Dron of -3 kg with Pixhawk controller, to perform automatic flights, this test consisted in the detection of different people within the visible spectrum, as well as in different positions and with daylight.
